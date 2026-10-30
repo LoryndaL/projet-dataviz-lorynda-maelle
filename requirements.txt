@@ -1,0 +1,25 @@
+# Manipulation des données
+pandas
+numpy
+
+# Lecture / écriture parquet
+pyarrow
+
+# Téléchargement des données
+requests
+
+# Visualisation
+plotly
+matplotlib
+
+# Dashboard
+streamlit
+
+# Base de données analytique
+duckdb
+
+# Cartographie
+folium
+
+# Utilitaires
+openpyxl
