@@ -104,8 +104,6 @@ Le tableau de bord a donc pour vocation de transformer les données immobilière
 
 pip install -r requirements.txt
 
-# Analyse du marché immobilier français
-
 ## Télécharger les données
 
 Les données proviennent de Data.gouv :
