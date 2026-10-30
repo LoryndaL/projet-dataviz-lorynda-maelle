@@ -31,4 +31,4 @@ https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/
 
 Puis exécuter :
 
-python scripts/download_data.py
+scripts/download_data.py
